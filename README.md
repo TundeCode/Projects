@@ -1,3 +1,7 @@
 # Projects
 
-This is where I'll be adding all my projects.
+This is the creative hub where I'll unveil and sharing all my captivating projects.
+
+
+
+
