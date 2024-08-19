@@ -8,7 +8,8 @@ My Study-Sync Project were I was able to working a group of amazing people to ma
 ## Personal Website
 
 **https://github.com/TundeCode/HeadStarterLandingPage** --- GitHub Page
-**https://tundecode.github.io/HeadStarterLandingPage/index.html** --- Link to Website
+
+**https://tundecode.github.io/HeadStarterLandingPage/index.html** ---Link to Website
 
 
 
